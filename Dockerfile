@@ -4,3 +4,4 @@ RUN javac JavaAutoBuild.java
 
 CMD ["java", "JavaAutoBuild"]
 Java
+Java1
